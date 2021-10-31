@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/az84.github.io/static/css/main.47588fc5.chunk.css",
+    "main.js": "/az84.github.io/static/js/main.39ca10a0.chunk.js",
+    "main.js.map": "/az84.github.io/static/js/main.39ca10a0.chunk.js.map",
+    "runtime-main.js": "/az84.github.io/static/js/runtime-main.8343d02b.js",
+    "runtime-main.js.map": "/az84.github.io/static/js/runtime-main.8343d02b.js.map",
+    "static/css/2.ee481535.chunk.css": "/az84.github.io/static/css/2.ee481535.chunk.css",
+    "static/js/2.0fa86c48.chunk.js": "/az84.github.io/static/js/2.0fa86c48.chunk.js",
+    "static/js/2.0fa86c48.chunk.js.map": "/az84.github.io/static/js/2.0fa86c48.chunk.js.map",
+    "static/js/3.99e1eebc.chunk.js": "/az84.github.io/static/js/3.99e1eebc.chunk.js",
+    "static/js/3.99e1eebc.chunk.js.map": "/az84.github.io/static/js/3.99e1eebc.chunk.js.map",
+    "index.html": "/az84.github.io/index.html",
+    "static/css/2.ee481535.chunk.css.map": "/az84.github.io/static/css/2.ee481535.chunk.css.map",
+    "static/css/main.47588fc5.chunk.css.map": "/az84.github.io/static/css/main.47588fc5.chunk.css.map",
+    "static/js/2.0fa86c48.chunk.js.LICENSE.txt": "/az84.github.io/static/js/2.0fa86c48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8343d02b.js",
+    "static/css/2.ee481535.chunk.css",
+    "static/js/2.0fa86c48.chunk.js",
+    "static/css/main.47588fc5.chunk.css",
+    "static/js/main.39ca10a0.chunk.js"
+  ]
+}
