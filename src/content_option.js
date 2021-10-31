@@ -5,9 +5,9 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hi! I'm Alina Zaidi",
+    title: "Hi, I'm Alina Zaidi",
     animated: {
-        first: "I'm a Full Stack Web Developer",
+        first: "A Full Stack Web Developer",
     },
     your_img_url: "https://scontent.fkhi17-1.fna.fbcdn.net/v/t1.6435-9/250119610_10159790776799282_6642799511353079272_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=oUjvlx09cp4AX8CbPMb&_nc_oc=AQkvyMtTJNL8E2pQjjttC0FmsC7UGbL-b5cq0VsaFLv-wxCBx54F1bnei82XrVLyKHDDxVSRv-ndQiv25UccIKpe&tn=P_in6YNSuoWj7RSr&_nc_ht=scontent.fkhi17-1.fna&oh=0f891f2029ea5479d3c8bdbf0d309d10&oe=619F6FAE",
 };
