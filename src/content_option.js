@@ -24,9 +24,31 @@ const skills = [
         name: "Javascript",
         value: 80,
     },
+
+    {
+        name: "JQuery",
+        value: 85,
+    }, 
+    {
+        name: "MongoDB",
+        value: 85,
+    },
+    {
+        name: "Node",
+        value: 85,
+    },
+    {
+        name: "Handlebars",
+        value: 85,
+    },
+    {
+        name: "Bootstrap",
+        value: 85,
+    },
+   
     {
         name: "React",
-        value: 60,
+        value: 80,
     },
     {
         name: "CSS",
@@ -36,20 +58,21 @@ const skills = [
 
 
 const dataportfolio = [{
-        img: "https://scontent.fkhi17-1.fna.fbcdn.net/v/t1.6435-9/248913029_10159790798939282_5527385772041272322_n.jpg?_nc_cat=106&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=-MEh7BRsjrcAX81KeT1&tn=P_in6YNSuoWj7RSr&_nc_ht=scontent.fkhi17-1.fna&oh=6d203afc8458e4bdfebbdc64ffc96086&oe=61A0A576",
-        desctiption: "FitList App",
-        link: "https://github.com/az84/FitList",
+        img: "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/257288630_10159826240674282_3099098630679471130_n.jpg?_nc_cat=103&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=eA1lMQUbLE0AX85rcZz&_nc_ht=scontent-lga3-2.xx&oh=6bf5af7d908c959cfb936c5ef57ca4da&oe=61970170",
+        desctiption: "Felicity",
+        link: "https://github.com/az84/Felicity-",
     },
     {
-        img: "https://scontent.fkhi17-1.fna.fbcdn.net/v/t1.6435-9/249009136_10159790799059282_1168103520267805199_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=VqjWX6ZSStYAX9pBxXr&_nc_ht=scontent.fkhi17-1.fna&oh=f4f30ca5b9d7ddbd477ebbbf53f63ad8&oe=619F4459",
-        desctiption: "Star Books",
-        link: "https://github.com/az84/Star-Books",
+        img: "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/257853438_10159831196824282_8093654083244241585_n.jpg?_nc_cat=108&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=c1hyi-Wfh4kAX929Q1R&tn=P_in6YNSuoWj7RSr&_nc_ht=scontent-lga3-2.xx&oh=f3d4fc538e849034b3bb683f738f4325&oe=61985896",
+        desctiption: "Workout Tracker",
+        link: "https://github.com/az84/Workout-Tracker",
     },
     {
-        img: "https://scontent.fkhi17-1.fna.fbcdn.net/v/t1.6435-9/250462522_10159790798944282_5330028782477722391_n.jpg?_nc_cat=110&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=tb9OoEydY_IAX-tIR6e&tn=P_in6YNSuoWj7RSr&_nc_ht=scontent.fkhi17-1.fna&oh=13655cbc75819f41ded3fd7584677867&oe=619ECE6A",
-        desctiption: "Work Day Scheduler",
-        link: "https://github.com/az84/Work-Day-Scheduler",
+        img: "https://raw.githubusercontent.com/az84/Book-Search-Engine/main/Assets/21-mern-homework-demo-01.gif",
+        desctiption: "Book Search Engine",
+        link: "https://github.com/az84/Book-Search-Engine",
     },
+
     {
         img: "https://scontent.fkhi17-1.fna.fbcdn.net/v/t1.6435-9/248919978_10159790798904282_1518242406228333658_n.jpg?_nc_cat=100&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=BEBymExrWcMAX8K408v&_nc_ht=scontent.fkhi17-1.fna&oh=c001d5b1a36a8dab99c2ad68aa545cea&oe=61A0573A",
         desctiption: "Code Quiz.",
