@@ -35,11 +35,6 @@ const dataportfolio = [{
         link: "https://github.com/az84/Book-Search-Engine",
     },
 
-    // {
-    //     img: "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/259393507_10159842245489282_6578865170046792933_n.jpg?_nc_cat=108&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=8frAEfPPDEkAX_9-p7q&_nc_ht=scontent-lga3-1.xx&oh=7c26e4d9c513887a1921ef6d66e83c14&oe=619F60D6",
-    //     desctiption: "Tech Blog",
-    //     link: "https://github.com/az84/TechBlog",
-    // },
 
     {
         img: "https://scontent.fkhi17-1.fna.fbcdn.net/v/t1.6435-9/248919978_10159790798904282_1518242406228333658_n.jpg?_nc_cat=100&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=BEBymExrWcMAX8K408v&_nc_ht=scontent.fkhi17-1.fna&oh=c001d5b1a36a8dab99c2ad68aa545cea&oe=61A0573A",
