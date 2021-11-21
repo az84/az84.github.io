@@ -14,7 +14,7 @@ const introdata = {
 
 const dataabout = {
     title: "About Me",
-    aboutme: "Ardent and solutions-driven Full Stack Web Developer with strong ability to design, build, and maintain websites from inception to fruition. Ability to work in a fast-paced and diverse collaborative setting delivering quality solutions. Recent graduate of Penn LPS Full Stack Web Development Boot Camp with proficiency in HTML5, CSS3, JavaScript, JQuery, Bootstrap, Node.JS, MySQL, MongoDB, Express, Handlebars, React and GraphQL. My love for coding blossomed due to my penchant for solving problems and seeing my visions play out to completion.",
+    aboutme: "Ardent and solutions-driven Full Stack Web Developer with a strong ability to design, build, and maintain websites from inception to fruition. Ability to work in a fast-paced and diverse collaborative setting delivering quality solutions. Recent graduate of Penn LPS Full Stack Web Development Boot Camp with proficiency in HTML5, CSS3, JavaScript, JQuery, Bootstrap, Node.JS, MySQL, MongoDB, Express, Handlebars, React and GraphQL. My love for coding blossomed due to my penchant for solving problems and seeing my visions play out to completion.",
 };
 
 
