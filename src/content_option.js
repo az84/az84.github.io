@@ -14,56 +14,18 @@ const introdata = {
 
 const dataabout = {
     title: "About Me",
-    aboutme: " Hi, I'm Alina! A well-rounded technology professional with a variety of skills related to IT Support, Customer Relations and Programming. Strong problem-solving skills and positive work ethic, with the ability to collaborate and work cross-departmentally.",
+    aboutme: "Ardent and solutions-driven Full Stack Web Developer with strong ability to design, build, and maintain websites from inception to fruition. Ability to work in a fast-paced and diverse collaborative setting delivering quality solutions. Recent graduate of Penn LPS Full Stack Web Development Boot Camp with proficiency in HTML5, CSS3, JavaScript, JQuery, Bootstrap, Node.JS, MySQL, MongoDB, Express, Handlebars, React and GraphQL. My love for coding blossomed due to my penchant for solving problems and seeing my visions play out to completion.",
 };
 
 
-const skills = [
-
-    {
-        name: "Javascript",
-        value: 80,
-    },
-
-    {
-        name: "JQuery",
-        value: 85,
-    }, 
-    {
-        name: "MongoDB",
-        value: 85,
-    },
-    {
-        name: "Node",
-        value: 85,
-    },
-    {
-        name: "Handlebars",
-        value: 85,
-    },
-    {
-        name: "Bootstrap",
-        value: 85,
-    },
-   
-    {
-        name: "React",
-        value: 80,
-    },
-    {
-        name: "CSS",
-        value: 85,
-    },
-];
-
 
 const dataportfolio = [{
-        img: "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/257288630_10159826240674282_3099098630679471130_n.jpg?_nc_cat=103&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=eA1lMQUbLE0AX85rcZz&_nc_ht=scontent-lga3-2.xx&oh=6bf5af7d908c959cfb936c5ef57ca4da&oe=61970170",
+        img: "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/257288630_10159826240674282_3099098630679471130_n.jpg?_nc_cat=103&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=p_Qz1B3bHagAX-aT9Py&_nc_ht=scontent-lga3-1.xx&oh=54f5442e2beb831af82e902bb1876150&oe=619EEA70",
         desctiption: "Felicity",
         link: "https://github.com/az84/Felicity-",
     },
     {
-        img: "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/257853438_10159831196824282_8093654083244241585_n.jpg?_nc_cat=108&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=c1hyi-Wfh4kAX929Q1R&tn=P_in6YNSuoWj7RSr&_nc_ht=scontent-lga3-2.xx&oh=f3d4fc538e849034b3bb683f738f4325&oe=61985896",
+        img: "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/257853438_10159831196824282_8093654083244241585_n.jpg?_nc_cat=108&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=13kJEkr-KnIAX8aAd_1&tn=P_in6YNSuoWj7RSr&_nc_ht=scontent-lga3-1.xx&oh=cbf509bfae66895a754804e560938f14&oe=619E4756",
         desctiption: "Workout Tracker",
         link: "https://github.com/az84/Workout-Tracker",
     },
@@ -71,6 +33,12 @@ const dataportfolio = [{
         img: "https://raw.githubusercontent.com/az84/Book-Search-Engine/main/Assets/21-mern-homework-demo-01.gif",
         desctiption: "Book Search Engine",
         link: "https://github.com/az84/Book-Search-Engine",
+    },
+
+    {
+        img: "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/259393507_10159842245489282_6578865170046792933_n.jpg?_nc_cat=108&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=8frAEfPPDEkAX_9-p7q&_nc_ht=scontent-lga3-1.xx&oh=7c26e4d9c513887a1921ef6d66e83c14&oe=619F60D6",
+        desctiption: "Tech Blog",
+        link: "https://github.com/az84/TechBlog",
     },
 
     {
@@ -96,7 +64,6 @@ export {
     meta,
     dataabout,
     dataportfolio,
-    skills,
     introdata,
     contactConfig,
     socialprofils,
