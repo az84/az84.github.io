@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "A Full Stack Web Developer",
     },
-    your_img_url: "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/249934910_10159790776779282_1133287564621119700_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=ItK-TvWxL-0AX-HDl6P&_nc_ht=scontent-lga3-1.xx&oh=abf012db191d6adce68e991c66607dca&oe=61A83A62",
+    your_img_url: "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/262088288_10159858240839282_2958777446522724666_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=5k-ky-DMXEUAX-SUBVX&_nc_ht=scontent-lga3-1.xx&oh=cdcbf1eadd3d6adf7d1d01bb9c0b0d2a&oe=61A9037A",
 };
 
 const dataabout = {
@@ -35,6 +35,12 @@ const dataportfolio = [{
         img: "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/257853438_10159831196824282_8093654083244241585_n.jpg?_nc_cat=108&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=2bOoiGc--_4AX_KaYha&tn=P_in6YNSuoWj7RSr&_nc_ht=scontent-lga3-1.xx&oh=78c8c183a79d8f8df9a9c0f7d74e4ab9&oe=61A82A96",
         desctiption: "Workout Tracker",
         link: "https://github.com/az84/Workout-Tracker",
+    },
+
+    {
+        img: "https://upenn.bootcampcontent.com/upenn-bootcamp/upenn-phi-virt-fsf-pt-05-2021-u-c/-/raw/master/11-Express/02-Homework/Assets/11-express-homework-demo-01.png",
+        desctiption: "Note Taker",
+        link: "https://github.com/az84/Note-Taker",
     },
 
     {
