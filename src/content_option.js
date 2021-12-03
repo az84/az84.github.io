@@ -38,7 +38,7 @@ const dataportfolio = [{
     },
 
     {
-        img: "https://upenn.bootcampcontent.com/upenn-bootcamp/upenn-phi-virt-fsf-pt-05-2021-u-c/-/raw/master/11-Express/02-Homework/Assets/11-express-homework-demo-01.png",
+        img: "https://raw.githubusercontent.com/az84/Note-Taker/main/Assets/11-express-homework-demo-01.png",
         desctiption: "Note Taker",
         link: "https://github.com/az84/Note-Taker",
     },
