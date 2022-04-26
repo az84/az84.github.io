@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "A Full Stack Web Developer",
     },
-    your_img_url: "https://raw.githubusercontent.com/az84/My-Personal-Portfolio/main/DSC_0928__01.jpg",
+    your_img_url: "https://raw.githubusercontent.com/az84/My-Personal-Portfolio/main/assests/pictureProfile.jpg",
 };
 
 const dataabout = {
